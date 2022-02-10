@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643025056879",
+    "project_id": "flash-chat-fae4d",
+    "storage_bucket": "flash-chat-fae4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643025056879:android:6374850846321f3acbc99a",
+        "android_client_info": {
+          "package_name": "co.mohamedNasser.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643025056879-nq47jdh6eeh9h7b4607rdrf5oeu7gje4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcYmD7h917IUb6HSJAATS6DgyVABajRKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643025056879-nq47jdh6eeh9h7b4607rdrf5oeu7gje4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
