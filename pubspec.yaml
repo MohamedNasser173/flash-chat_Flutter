@@ -16,6 +16,7 @@ dependencies:
   firebase_auth: ^3.3.6
   cloud_firestore: ^3.1.7
   flutterfire_ui: ^0.3.3
+  modal_progress_hud: ^0.1.3
 
 
 

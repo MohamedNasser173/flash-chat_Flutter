@@ -8,9 +8,7 @@ import 'package:flash_chat/screens/registration_screen.dart';
 import 'package:flash_chat/screens/chat_screen.dart';
 import 'firebase_options.dart';
 
-/*Install Firebase CLI here اللى محتاج اعمله ان شاء الله
-run dart pub global activate flutterfire_cli in your Flutter proyect
-run flutterfire configure*/
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
